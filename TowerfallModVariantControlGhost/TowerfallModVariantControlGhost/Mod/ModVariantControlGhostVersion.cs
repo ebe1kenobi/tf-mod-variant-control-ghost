@@ -6,6 +6,6 @@
   public static class ModVariantControlGhost {
     
     // Original Mod
-    public const string ModVariantControlGhostVersion = "v0.0.1";
+    public const string ModVariantControlGhostVersion = "v0.1";
   }
 }

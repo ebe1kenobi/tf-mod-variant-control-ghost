@@ -322,7 +322,7 @@ namespace ModVariantControlGhost
     public override int NormalUpdate()
     {
       int result = base.NormalUpdate();
-      if (result != 0 && result != 2)
+      if (result != 0)
       {
         return result;
       }
